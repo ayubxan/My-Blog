@@ -1,3 +1,3 @@
 # My Blog
 
-# Live serverda index.html ni oching.
+Live serverda index.html ni oching.
